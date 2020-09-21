@@ -2,8 +2,9 @@
 exercises from KU Leuven course Artificial Neural Networks and Deep Learning
 
 ## session 1
-Learn to implement basic ANN models: perceptron and feedforward neural networks with hyperparameter tuning
+Implemented basic ANN models: perceptron and feedforward neural networks with hyperparameter tuning
 
 ## session 2
+Explored recurrent neural networks in their application to time series predictions especifically hopfield networks and long short-term memory networks
 
 ## session 3
