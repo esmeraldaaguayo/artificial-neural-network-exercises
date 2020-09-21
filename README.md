@@ -8,3 +8,4 @@ Implemented basic ANN models: perceptron and feedforward neural networks with hy
 Explored recurrent neural networks in their application to time series predictions especifically hopfield networks and long short-term memory networks
 
 ## session 3
+Neural networks for deep learning were analyzed including stacked autoencoders and convolutional neural networks
